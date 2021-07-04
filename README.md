@@ -2,7 +2,7 @@
 "name": "TrianGle",
 "author": "TrianGle",
 "image": "https://i.pinimg.com/originals/6b/ae/59/6bae59252f485a71cb2944ebf153ef44.png",
-"url": "https://pastebin.com/raw/zWGgABgp",
+"url": "https://raw.githubusercontent.com/Gumpun/iptv/main/README.md",
 "groups": [
 
 {
